@@ -1,5 +1,5 @@
 Learning TS & JS - trying to be better,
-Personal projects and tests
+Personal projects and tests.
 
 
  <div style="display: inline_block"><br>
