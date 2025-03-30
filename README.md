@@ -1,4 +1,4 @@
-Learning TS & JS - trying to be better
+Learning TS & JS - trying to be better,
 Personal projects and tests
 
 
